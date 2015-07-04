@@ -1,0 +1,17 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "open http://localhost:3000 & httpster -p 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "httpster": "^1.0.1",
+    "open": "0.0.5",
+    "react": "^0.13.3",
+    "react-tools": "^0.13.3"
+  }
+}

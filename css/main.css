@@ -1,0 +1,25 @@
+html,body,#output, .container-fluid, .board{
+	height: 100%;
+	min-height: 100%;
+}
+
+.mTop{
+	margin-top: 20px;
+}
+.board{
+	border: 1px solid #ccc;
+}
+
+.board{
+	position: relative;
+}
+
+.note{
+	background: yellow;
+	width: 300px;
+	height: 200px;
+	padding: 10px;
+	border: 1px solid #eee;
+	position: absolute;
+	box-shadow: 0 0 2px 4px #ccc;
+}
